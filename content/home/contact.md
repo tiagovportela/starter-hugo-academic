@@ -41,7 +41,7 @@ content:
   office_hours:
     - "Week Day 10:00 to 19:00"
 
-  appointment_url: "https://calendly.com"
+  appointment_url: "https://calendly.com/tiagovportela"
   contact_links:
     - icon: twitter
       icon_pack: fab

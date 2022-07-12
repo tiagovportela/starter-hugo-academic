@@ -31,7 +31,7 @@ content:
       tag: Machine Learning
     - name: Data Science
       tag: Data Science
-    - name: Internt of Things
+    - name: Internet of Things
       tag: iot
 
 design:
