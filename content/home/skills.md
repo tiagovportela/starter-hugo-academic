@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 60%
-    icon: circle-nodes
+    icon: fa-circle-nodes
     icon_pack: fas
     name: Internet of Things
 # Uncomment to use emoji icons.
