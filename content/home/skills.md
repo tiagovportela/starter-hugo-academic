@@ -24,10 +24,10 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: 60%
+    icon: circle-nodes
     icon_pack: fas
-    name: Photography
+    name: Internet of Things
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
