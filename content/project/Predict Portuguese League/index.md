@@ -41,6 +41,38 @@ Este projecto tem como objectico prever o resultado da Liga Portuguesa de Futebo
 
 Para criar o dataset adquado para o objectivo recolhi dados da web sobre os jogos, jogares e odds das principais casas de apostas e fundios num dataset
 
-### 1.1 Scrape Players data
+### 1.1 Scrape Data
 
-Para
+#### 1.1.1 Scrape Players data
+
+Um bom site com dados de jogadores de futebol é o (sofifa.com)[sofifa.com].
+Depois de examinar o site não encontrei nenhuma api com os dados de interesse, por isso usei scrapy, que é um framework the python para webscraping.
+
+#### 1.1.2 Scrape Portuguese League Games
+
+asasassd
+
+#### 1.1.3 Scrape Portuguese Leagues Games Odds
+
+dsgdfgdgdfgdd
+
+### 1.2 Clean data
+
+asdasdasd sdfsdf
+
+#### 1.2.1 Clean SOFIFA Players data
+
+fssdfjjj fdsdf lkjsd
+
+#### 1.2.2 Clean Portuguese League Games data
+
+dsdssdf sddggdfg
+
+#### 1.2.3 Clean Portuguese Leagues Games Odds data
+
+asdasdas gdgdfgdf
+
+### 1.3 Merge data
+
+asdasda sdfsdfsdf
+dsfsdf
