@@ -9,7 +9,7 @@ date: "2022-07-18T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash (content/project/Predict Portuguese League/liga-fpf-2.png)
+  caption:
   focal_point: Smart
 
 links:
@@ -29,4 +29,18 @@ url_video: ""
 # slides: example
 ---
 
-Este projecto tem como objctivo desemvolver as minhas tecnicas de web scrape, data cleaing e model selection
+Este projecto tem como objectico prever o resultado da Liga Portuguesa de Futebol. Estando divido em varias fases.
+
+1. Criar um dataset com varias importantes para a previsao do resultado
+2. Limpar os dados para que possam ser consumidos pelo modelo de machine learning
+3. Encontrar o melhor modelo para o problema
+4. Verificar a qualidade do modelo
+5. Melhoramentos futuros
+
+## 1. Buil dataset
+
+Para criar o dataset adquado para o objectivo recolhi dados da web sobre os jogos, jogares e odds das principais casas de apostas e fundios num dataset
+
+### 1.1 Scrape Players data
+
+Para

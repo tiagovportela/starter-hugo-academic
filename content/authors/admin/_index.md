@@ -11,7 +11,7 @@ role: Motion Analyst and R&D
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Nelo MAR Kayaks
-    url: https://nelo.eu/
+    url: https://www.nelo.eu/about-us/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed IoT, data science and Machine learning.
@@ -70,8 +70,6 @@ email: "tiagovportela[at]protonmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Tiago Portela, i work for Nelo MAR Kayaks world leader in production of elite kayaks, in motion analysis and product development departement. My interests are
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
