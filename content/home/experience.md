@@ -25,7 +25,7 @@ experience:
   - title: Motion Analyst
     company: Nelo MAR Kayaks
     company_url: "nelo.eu"
-    company_logo: https://pbs.twimg.com/profile_images/1080773924416339969/pYfVHXaZ_400x400.jpg
+    #     company_logo: https://pbs.twimg.com/profile_images/1080773924416339969/pYfVHXaZ_400x400.jpg
     location: Vila do Conde
     date_start: "2018-08-01"
     date_end: ""
@@ -39,7 +39,7 @@ experience:
   - title: Motion Analyst
     company: Nelo MAR Kayaks
     company_url: "nelo.eu"
-    company_logo: https://pbs.twimg.com/profile_images/1080773924416339969/pYfVHXaZ_400x400.jpg
+    #     company_logo: https://pbs.twimg.com/profile_images/1080773924416339969/pYfVHXaZ_400x400.jpg
     location: Vila do Conde
     date_start: "2020-05-01"
     date_end: ""
